@@ -10,6 +10,11 @@ namespace lab2._59
     {
         static void Main(string[] args)
         {
+            double ya, yb, yc, yd, x;
+
+
+            Console.WriteLine("Введите x ");
+            x = Convert.ToDouble(Console.ReadLine());
         }
     }
 }

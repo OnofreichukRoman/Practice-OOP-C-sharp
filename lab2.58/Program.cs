@@ -34,12 +34,10 @@ namespace lab2._58
 
             Console.WriteLine("y(б) = " + yb);
 
-            if (x >= -2 && x <= -1 || x >= 1 && x <= 2)
-                yc = Math.Abs(x) - 1;
-            else if (x >= -1 && x <= 0 || x >= 0 && x <= 1)
-                yc = 1 - Math.Abs(x);
-            else
-                yc = Math.Abs(x);
+            if (x <= 0)
+                yc = Math.Abs(x + 1);
+            else 
+                yc = Math.Abs(x - 1);
 
             Console.WriteLine("y(в) = " + yc);
 
