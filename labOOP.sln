@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zash1", "zash1\zash1.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zash4", "zash4\zash4.csproj", "{535C2914-518A-4A87-975F-B16D4F329EF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zash5", "zash5\zash5.csproj", "{22877A0C-25A2-402B-AB3E-82C2633817B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{E171AB7F-26D3-4768-9FE5-B677308AB676}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{535C2914-518A-4A87-975F-B16D4F329EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{535C2914-518A-4A87-975F-B16D4F329EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{535C2914-518A-4A87-975F-B16D4F329EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22877A0C-25A2-402B-AB3E-82C2633817B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22877A0C-25A2-402B-AB3E-82C2633817B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22877A0C-25A2-402B-AB3E-82C2633817B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22877A0C-25A2-402B-AB3E-82C2633817B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E171AB7F-26D3-4768-9FE5-B677308AB676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E171AB7F-26D3-4768-9FE5-B677308AB676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E171AB7F-26D3-4768-9FE5-B677308AB676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E171AB7F-26D3-4768-9FE5-B677308AB676}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
